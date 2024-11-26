@@ -1,0 +1,15 @@
+* {
+    text-decoration: none;
+}
+
+table {
+    border: 1px solid brown;
+}
+
+a {
+    text-decoration: none;
+}
+
+footer a {
+    margin-right: 5px;
+}
